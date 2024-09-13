@@ -1,2 +1,2 @@
 # arborwoodshop-index
-https://www.arborwoodshop.com/index
+https://arborwoodshop.com/index
